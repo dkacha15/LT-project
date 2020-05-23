@@ -1,0 +1,10 @@
+$start
+var  a,b,c,d,e,f:
+assign(a,10):
+assign(b,10):
+c=add(a,b):
+d=sub(a,b):
+e=mul(a,b):
+f=div(a,b):
+display(a,b,c,d,e,f):
+$end

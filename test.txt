@@ -1,0 +1,7 @@
+$start
+var a,b,c:
+assign(a,4):
+assign(b,5):
+c=add(a,b):
+display(c,a,b):
+$end
